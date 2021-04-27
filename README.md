@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/85593c47-41ab-4fa0-b7a3-b20700f8e551/deploy-status)](https://app.netlify.com/sites/stoic-clarke-3e42e1/deploys)
+
 # ember-sandbox
 
 This README outlines the details of collaborating on this Ember application.
